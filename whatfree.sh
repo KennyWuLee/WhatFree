@@ -3,7 +3,7 @@
 username=""
 password=""
 downloadDir="/path/to/downloadfolder/"
-url="passtheheadphones.me"
+url="redacted.ch"
 
 free=$(curl -L -s -b "cookie.txt" -c "cookie.txt"\
  "https://$url/torrents.php?freetorrent=1")
